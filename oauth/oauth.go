@@ -4,7 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"oauthApi/src/rest_errors"
+
+	"github.com/viti3600/shared_utils-go/rest_errors"
 
 	"net/http"
 	"strconv"
